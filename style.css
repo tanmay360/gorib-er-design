@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #ebe9e9;;
+}
+.container{
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1170px;
+}
+/*CRAD DESIGN STARTES*/
+.box{
+    float: left;
+}
+.container .box{
+    width: 20%;
+    background-color: #fff;
+    padding: 10px 23px;
+    margin: 20px 5px;
+    text-align: center;
+}
+.container .tcontent{
+    text-align: center;
+    padding: 50px 0;
+}
+.tcontent p{
+    font-size: 25px;
+}
+.tcontent h1{
+    font-size: 40px;
+}
+.box p{
+    padding: 20px 8px;
+}
+.box h1{
+    margin-top: 8px;
+    margin: 0 15px;
+}
+/*CRAD DESIGN FINISHED*/
